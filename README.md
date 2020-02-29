@@ -16,6 +16,6 @@ React
 
 App View:
 
-<img src="/public/assets/images/untitled.png" alt="App View">
+<img src="/public/assets/images/Untitled.png" alt="App View">
 
 
