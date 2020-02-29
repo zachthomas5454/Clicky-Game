@@ -9,3 +9,8 @@ The design of the application uses Bootstrap 4 as a framework. It is intentional
 
 Technologies Used
 React
+
+App View:
+
+<img src="\public\assets\images\untitled.png" alt="App View">
+
